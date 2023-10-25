@@ -1,0 +1,25 @@
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 30vh;
+  overflow: hidden;
+}
+
+.btn-primary {
+  background-color: #888888;
+  outline-color: #888888;
+  border-color: #888888;
+}
+
+.card {
+  border-color: #cccccc;
+  background-color: #cccccc;
+}
+
+.table {
+  border-radius: 5px;
+}
+
+.blockquote {
+  background-color: antiquewhite;
+}
